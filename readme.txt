@@ -9,4 +9,8 @@ Add by dev again.
 
 Add by dev no--ff.
 
+<<<<<<< Updated upstream
 stash------Git is a free software ...
+=======
+stash------
+>>>>>>> Stashed changes
